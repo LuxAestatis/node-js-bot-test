@@ -1,0 +1,25 @@
+{
+  "name": "node-js-bot-test",
+  "version": "0.2.5",
+  "description": "A sample Node.js app using Express 4",
+  "engines": {
+    "node": "5.9.1"
+  },
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "ejs": "2.4.1",
+    "express": "4.13.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LuxAestatis/node-js-bot-test/"
+  },
+  "keywords": [
+    "node",
+    "bot",
+    "express"
+  ],
+}
